@@ -1,6 +1,6 @@
 # Simple REST Client
 
-This is a Simple REST Client as a proof of concept using Twitter API.
+This is a Simple REST Client using Twitter API.
 
 ## Built With
 
